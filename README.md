@@ -18,7 +18,6 @@ A Binary Search Tree follows these rules:
 ## Features
 
 - Insert nodes.
-- Search and find values during tree operations.
 - Traverse the tree using:
   - InOrder
   - PreOrder
